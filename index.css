@@ -1,0 +1,27 @@
+.all{
+font-family : Microsoft JhengHei;
+
+}
+h1{
+font-size : 48px;
+}
+section.begin{
+width : 100%;
+height : 30%;
+color : 000080;
+}
+h2{
+font-size : 36px;
+}
+h3{
+  font-size : 24px;
+  width : 100%;
+  height : 10%;
+  color : FF8C8C;
+}
+div.cotain{
+  font-size : 18px;
+  width :100%;
+  height :60%;
+  color : D6D6FF;
+}
