@@ -3,7 +3,7 @@ font-family : Microsoft JhengHei;
 text-align : center;
 }
 body{
-margin : 0px;
+  margin : 0px;
 }
 h1{
 font-size : 48px;
@@ -11,17 +11,21 @@ font-size : 48px;
 section.begin{
 width : 100%;
 background-color : #000080;
+margin : 0px;
 }
 h2{
 font-size : 36px;
+margin : 0px;
 }
 h3{
   font-size : 24px;
   width : 100%;
  background-color : #FF8C8C;
+ margin : 0px;
 }
 div.cotain{
   font-size : 18px;
   width :100%;
   background-color : #D6D6FF;
+  margin : 0px;
 }
